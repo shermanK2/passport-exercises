@@ -10,5 +10,4 @@ Publish reviewed practice changes through your draft practice pull request.
 
 ## Verification
 
-staged diff must be reviewed before publishing.
-
+The staged diff must be reviewed before publishing.
